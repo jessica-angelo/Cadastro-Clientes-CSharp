@@ -1,15 +1,19 @@
-# Sistema de Cadastro de Clientes
+# Cadastro de Clientes - C#
 
-Sistema simples em C# para cadastrar e listar clientes.
-
-## Tecnologias
-- C#
-- Console Application
+## Descrição
+Sistema simples de cadastro de clientes, desenvolvido em C#. Permite adicionar, editar, visualizar e excluir clientes, com foco em aprendizado de programação orientada a objetos.
 
 ## Funcionalidades
-- Adicionar clientes (nome, email, telefone)
+- Adicionar clientes com nome, e-mail e telefone
 - Listar clientes cadastrados
+- Editar informações de clientes
+- Remover clientes do cadastro
 
-## Como executar
-1. Abra no Visual Studio ou VS Code com extensão C#.
-2. Compile e execute o projeto.
+## Tecnologias Utilizadas
+- C#  
+- .NET (Console Application)
+
+## Como Executar
+1. Clone o repositório:
+   ```bash
+   git clone URL_DO_REPOSITORIO
